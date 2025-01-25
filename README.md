@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**ancreat/ancreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+role: Full-stack developer
+stack-for-start-up-project: MERN stack
+# MongoDB, Express, React, Node
+```
 
-Here are some ideas to get you started:
+### Experienced skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend development
+
+[![Frontend development](https://skillicons.dev/icons?i=react,tailwindcss,next,ts&theme=light)](https://skillicons.dev)
+
+#### Backend development
+
+[![Backend development](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
+
+#### Cloud & Containers
+
+[![Cloud & Containers](https://skillicons.dev/icons?i=aws,azure,docker&theme=light)](https://skillicons.dev)
+
+#### Data Science
+
+[![Data science](https://skillicons.dev/icons?i=sklearn,r&theme=light)](https://skillicons.dev)
